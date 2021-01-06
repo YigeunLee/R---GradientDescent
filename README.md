@@ -2,6 +2,7 @@
 Implement GradientDescent Algorithm
 
 * Reference By "Algorithms for Optimization"
+* Using "Pracma" for grad()
 
 ### 1. Result loss
 
