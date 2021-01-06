@@ -10,6 +10,7 @@ Implement GradientDescent Algorithm
 
 ### 2. Sample Value
 
+* initial value : 12, 2
 * Target difference : (f(x) - 8) <= 0.01,
 * Target value : 8
 * Target Function : x_vec[1] * ( x_vec[2] *  x_vec[2])
